@@ -3,6 +3,7 @@
 This is a simple blog I'm making for myself.
 
 The website is running Remix.
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
